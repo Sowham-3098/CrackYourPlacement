@@ -1,4 +1,3 @@
-# CrackYourPlacement 
 # 60-Days Coding Challenge-2024 🚩
 
 Welcome to the 60-Day Coding Challenge repository! This is a personal project where I have undertaken the challenge to solve 4-5 coding questions from leetcode or geeksforgeeks every day for 60 days. In this repository, you will find my solutions.
