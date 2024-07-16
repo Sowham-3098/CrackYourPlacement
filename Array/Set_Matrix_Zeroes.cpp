@@ -1,4 +1,4 @@
-class Solution {
+/* class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
         // Extra variable to handle the first column separately
@@ -46,3 +46,4 @@ public:
         }
     }
 };
+ */
