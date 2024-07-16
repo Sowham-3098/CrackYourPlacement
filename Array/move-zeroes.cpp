@@ -1,4 +1,4 @@
-/* class Solution {
+class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
         int left_zero=-1;
@@ -17,4 +17,4 @@ public:
             }
         }
     }
-}; */
+};

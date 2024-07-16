@@ -1,4 +1,4 @@
-/* class Solution {
+class Solution {
 public:
     int maxProfit(vector<int>& prices) {
         // just track the minimum price over the iteration when we can buy and
@@ -11,4 +11,4 @@ public:
         }
         return profit;
     }
-}; */
+};

@@ -1,4 +1,4 @@
-/* class Solution {
+class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
         int slow = nums[0];
@@ -16,4 +16,4 @@ public:
 
         return slow;
     }
-}; */
+};
